@@ -1,0 +1,8 @@
+Content\medfont.xnb
+Content\smallfont.xnb
+Content\largefont.xnb
+Content\astroid0.xnb
+Content\missile.xnb
+Content\ship0.xnb
+Content\boom0.xnb
+Content\astroid1.xnb

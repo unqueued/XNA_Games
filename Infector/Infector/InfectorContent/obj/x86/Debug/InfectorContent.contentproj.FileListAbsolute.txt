@@ -1,0 +1,2 @@
+C:\Users\sc\Dropbox\school work\CS3113\Homework 7\Infector\Infector\InfectorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tim\Dropbox\school work\CS3113\Homework 7\Infector\Infector\InfectorContent\obj\x86\Debug\InfectorContent.contentprojResolveAssemblyReference.cache

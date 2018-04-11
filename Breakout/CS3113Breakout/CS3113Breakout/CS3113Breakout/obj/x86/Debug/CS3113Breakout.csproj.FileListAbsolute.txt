@@ -1,0 +1,52 @@
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\paddle.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\ball.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.exe
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.pdb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.exe
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.pdb
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\paddle.xnb
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\ball.xnb
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.exe
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.pdb
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.exe
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.pdb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\brick.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\gamefont.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\bigfont.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\smallfont.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\paddle.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\ball.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\brick.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\gamefont.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\bigfont.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\smallfont.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.exe
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.pdb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.exe
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.pdb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\AnotherAudio.xgs
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\paddle.xnb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\ball.xnb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\brick.xnb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\gamefont.xnb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\bigfont.xnb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\smallfont.xnb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\AnotherAudio.xgs
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.exe
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.pdb
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.csprojResolveAssemblyReference.cache
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.exe
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.pdb

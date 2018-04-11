@@ -1,0 +1,8 @@
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Homework 3\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\Audio\AnotherAudio.xml
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\CS3113BreakoutContent.contentprojResolveAssemblyReference.cache
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\Audio\AnotherAudio.xml
+C:\Users\tim\Dropbox\school work\CS3113\Homework 3\hw03\CS3113Breakout\CS3113Breakout\CS3113BreakoutContent\obj\x86\Debug\Audio\GameAudio.xml

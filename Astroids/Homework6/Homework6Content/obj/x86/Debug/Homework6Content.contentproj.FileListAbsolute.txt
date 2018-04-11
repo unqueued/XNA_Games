@@ -1,0 +1,3 @@
+C:\Users\sc\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6Content\obj\x86\Debug\Homework6Content.contentprojResolveAssemblyReference.cache
+L:\CS3113\Homework 6\Homework6\Homework6\Homework6Content\obj\x86\Debug\ResolveAssemblyReference.cache

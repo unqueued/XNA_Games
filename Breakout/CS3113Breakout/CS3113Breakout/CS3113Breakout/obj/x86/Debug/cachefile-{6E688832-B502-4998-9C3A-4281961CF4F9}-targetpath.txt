@@ -1,0 +1,12 @@
+Content\sprites\paddle.xnb
+Content\sprites\ball.xnb
+Content\sprites\brick.xnb
+Content\sprites\gamefont.xnb
+Content\sprites\bigfont.xnb
+Content\sprites\smallfont.xnb
+Content\Audio\AnotherAudio.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb
+Content\Audio\GameAudio.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb

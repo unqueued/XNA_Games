@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 1365005937;
+    Bank Last Revised High = 30326237;
+
+    Wave
+    {
+        Name = Body_Hit_20;
+        File = Body_Hit_20.wav;
+        Build Settings Last Modified Low = 1107741223;
+        Build Settings Last Modified High = 30326237;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 25696;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1490991360;
+            Last Modified High = 30005840;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep_Concrete_01;
+        File = Footstep_Concrete_01.wav;
+        Build Settings Last Modified Low = 1107751223;
+        Build Settings Last Modified High = 30326237;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 33136;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1510991360;
+            Last Modified High = 30005840;
+        }
+    }
+
+    Wave
+    {
+        Name = UI_Misc19;
+        File = UI_Misc19.wav;
+        Build Settings Last Modified Low = 1107751223;
+        Build Settings Last Modified High = 30326237;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 131072;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1570991360;
+            Last Modified High = 30005840;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

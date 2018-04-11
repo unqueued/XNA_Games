@@ -1,0 +1,8 @@
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\paddle.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\Content\sprites\ball.xnb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.exe
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\bin\x86\Debug\CS3113Breakout.pdb
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.exe
+C:\Users\sc\Dropbox\school work\CS3113\Homework 3\CS3113Breakout\CS3113Breakout\CS3113Breakout\obj\x86\Debug\CS3113Breakout.pdb

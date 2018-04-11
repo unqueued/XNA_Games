@@ -1,0 +1,4 @@
+Content\sprites\bigfont.xnb
+Content\sprites\gamefont.xnb
+Content\sprites\smallfont.xnb
+Content\sprites\tile.xnb

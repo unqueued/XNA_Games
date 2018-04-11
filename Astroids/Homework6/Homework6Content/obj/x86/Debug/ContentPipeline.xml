@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>medfont.spritefont</Source>
+      <Name>medfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\medfont.xnb</Output>
+      <Time>2013-11-02T16:25:15-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smallfont.spritefont</Source>
+      <Name>smallfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\smallfont.xnb</Output>
+      <Time>2013-11-02T16:25:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>largefont.spritefont</Source>
+      <Name>largefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\largefont.xnb</Output>
+      <Time>2013-11-02T16:25:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>astroid0.bmp</Source>
+      <Name>astroid0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\astroid0.xnb</Output>
+      <Time>2013-11-03T19:07:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.bmp</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2013-11-02T19:50:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ship0.bmp</Source>
+      <Name>ship0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\ship0.xnb</Output>
+      <Time>2013-11-03T19:09:13-05:00</Time>
+    </Item>
+    <Item>
+      <Source>boom0.bmp</Source>
+      <Name>boom0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\boom0.xnb</Output>
+      <Time>2013-11-03T04:13:59-05:00</Time>
+    </Item>
+    <Item>
+      <Source>astroid1.bmp</Source>
+      <Name>astroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\astroid1.xnb</Output>
+      <Time>2013-11-03T19:06:35-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tim\Dropbox\school work\CS3113\Homework 6\Homework6\Homework6\Homework6\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-16T01:49:23.3457773-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
